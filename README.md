@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,6 +76,7 @@
     </footer>
 </body>
 </html>
+```
 🔹 Features
 •	🖼️ Beautiful UI with simple HTML & CSS.
 •	🚀 Responsive and easy to use.
